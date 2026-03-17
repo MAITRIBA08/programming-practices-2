@@ -1,3 +1,5 @@
+//Write a program to multiply two matrices.//
+
 #include<stdio.h>
 #include<string.h>
 int main()
