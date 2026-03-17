@@ -1,3 +1,5 @@
+// Write a program to print 3 * 3 matrix.//
+
 #include<stdio.h>
 #include<string.h>
 int main()
