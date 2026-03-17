@@ -1,4 +1,4 @@
-
+//Write a program to add two matrices.//
 #include<stdio.h>
 #include<string.h>
 int main()
