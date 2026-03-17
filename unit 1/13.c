@@ -1,3 +1,6 @@
+//Enter a string and find out length of string with using string
+function and without string function.//
+
 #include<stdio.h>
 #include<string.h>
 int main()
