@@ -1,3 +1,6 @@
+//Enter a string and find out how many spaces and vowels in
+the string.
+
 #include<stdio.h>
 #include<string.h>
 int main()
